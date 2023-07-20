@@ -1,8 +1,23 @@
 import React from "react";
 
+import Video from '../components/Video';
+
+const videsData = require('../../shared/data/videos-data.json');
+
 const VideosList = props => {
     return (
-        <h2> Videos List </h2>
+        <div className="container">
+        <div class="row">
+            <ul className="list-group">
+                {videsData.items.map(item => (
+                    <Video
+                        item={item}
+                    />
+                ))}
+            </ul>
+
+        </div>
+    </div>
     );
 };
 
