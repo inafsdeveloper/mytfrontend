@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "SFluS4uDfWF7P31ju4GPKMBVnQQ",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 54,
+        "resultsPerPage": 10
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zehcpIalOvXa9UgornFcVyRhf7Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F8J8eKiUSxE"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-11T17:34:29Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "Hubsy the HubSpot Bot (2nd Place AWS ChatBot Hackathon 2017)",
+                "description": "https://awstutorialseries.com/ View the code running Hubsy! https://github.com/hubsybot/hubsy Hubsy seeks to redefine the away ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F8J8eKiUSxE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F8J8eKiUSxE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F8J8eKiUSxE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-11T17:34:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dsIsEfKBIdeTdvN1xzO9D3LURsE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jg_SsZGYmr0"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-03T16:32:37Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "Intro to Lex - Bot Setup With Lambda",
+                "description": "A brief introduction to using AWS Lex to create a bot that executes a Lambda function. https://www.awstutorialseries.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jg_SsZGYmr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jg_SsZGYmr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jg_SsZGYmr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-05-03T16:32:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Juapxt6n_MQWEWy4ctlhf__tPx4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CMoxwdQzIJ4"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-28T13:21:45Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "New PC Build Video Timelapse",
+                "description": "https://awstutorialseries.com/ Asus Tuf Mark 1 - http://amzn.to/2ljBecW Intel i7 7700k - http://amzn.to/2l7Jm56 Corsair Dominator ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CMoxwdQzIJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CMoxwdQzIJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CMoxwdQzIJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-02-28T13:21:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d2yBsV01RfOVrpgtmQSrX2NhpeI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5BlKOvrtptg"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-25T15:06:23Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "IoT (Internet Of Things) Getting Started - Part 2 (Dash Button + Lambda + Elasticsearch)",
+                "description": "https://awstutorialseries.com/ Setting up an AWS Dash button to a Lambda function which takes the data and pipes it into ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5BlKOvrtptg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5BlKOvrtptg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5BlKOvrtptg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-02-25T15:06:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2MuFKA-zYmaFxP-0LKSuquetUQA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7C0pmrN9t7E"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-25T00:34:52Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "Elasticsearch Service Setup",
+                "description": "https://awstutorialseries.com/ https://github.com/andrewpuch/elasticsearch_examples.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7C0pmrN9t7E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7C0pmrN9t7E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7C0pmrN9t7E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-02-25T00:34:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nNYdUaeJnRuZ-hRzFh_IArJr6zI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "93npbhqmsME"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-09T21:18:52Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "Rekognition Tutorial",
+                "description": "https://awstutorialseries.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/93npbhqmsME/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/93npbhqmsME/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/93npbhqmsME/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-12-09T21:18:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mK3eTRHo5aRllxRxFSVuVsczEmE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LvCmp3lRu_4"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-08T23:46:18Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "KMS (Key Management Service) Tutorial",
+                "description": "https://awstutorialseries.com/ YouTube won't let me paste the commands in here because it has slashes in them so you'll have to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LvCmp3lRu_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LvCmp3lRu_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LvCmp3lRu_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-12-08T23:46:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "10dqrlCT5jQ3K7_Fdnm0J9gecnw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kQBGbmrdYO4"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-08T02:20:27Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "ECS (EC2 Container Service) Tutorial",
+                "description": "https://awstutorialseries.com/ Github https://github.com/andrewpuch/ecs_tutorial Docker toolbox ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kQBGbmrdYO4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kQBGbmrdYO4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kQBGbmrdYO4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-12-08T02:20:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qvfbNhz6B0ZX0yP-Cgtbv7f12Yw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qs3hbUrqzQM"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-10T17:27:15Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "Datadog Review &amp; Walkthrough",
+                "description": "https://awstutorialseries.com/ Datadog is a fantastic monitoring service! If you have any other services you would like me to review ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qs3hbUrqzQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qs3hbUrqzQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qs3hbUrqzQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-09-10T17:27:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-XIBr7wdbMxm3wQRy6g2IsDKVmU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sq_l2J4oyLU"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-04T16:04:41Z",
+                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
+                "title": "IoT (Internet Of Things) Getting Started - Part 1",
+                "description": "https://awstutorialseries.com/ Future tutorials on IoT will include setting up IoT with a physical hardware device! Stay tuned!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sq_l2J4oyLU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sq_l2J4oyLU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sq_l2J4oyLU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AWS Tutorial Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-09-04T16:04:41Z"
+            }
+        }
+    ]
+}
