@@ -1,351 +1,1711 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "SFluS4uDfWF7P31ju4GPKMBVnQQ",
-    "nextPageToken": "CAoQAA",
+    "etag": "eqIbCaWbH1C_I8m_K4OG1k9ymQo",
+    "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 54,
-        "resultsPerPage": 10
+        "totalResults": 149,
+        "resultsPerPage": 50
     },
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "zehcpIalOvXa9UgornFcVyRhf7Y",
+            "etag": "s2udsh8xXeDIfGC82w0TmvMZ4A8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "F8J8eKiUSxE"
+                "videoId": "d_qvLDhkg00"
             },
             "snippet": {
-                "publishedAt": "2017-08-11T17:34:29Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "Hubsy the HubSpot Bot (2nd Place AWS ChatBot Hackathon 2017)",
-                "description": "https://awstutorialseries.com/ View the code running Hubsy! https://github.com/hubsybot/hubsy Hubsy seeks to redefine the away ...",
+                "publishedAt": "2023-07-11T15:53:09Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Why is the &quot;central limit&quot; a normal distribution?",
+                "description": "A visual trick to compute the sum of two normally-distributed variables. 3b1b mailing list: https://3blue1brown.substack.com/ Help ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/F8J8eKiUSxE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/d_qvLDhkg00/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/F8J8eKiUSxE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/d_qvLDhkg00/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/F8J8eKiUSxE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/d_qvLDhkg00/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2017-08-11T17:34:29Z"
+                "publishTime": "2023-07-11T15:53:09Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "dsIsEfKBIdeTdvN1xzO9D3LURsE",
+            "etag": "AAfnni2XsTuE79rTzDkFJrKQ5Yk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Jg_SsZGYmr0"
+                "videoId": "YtkIWDE36qU"
             },
             "snippet": {
-                "publishedAt": "2017-05-03T16:32:37Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "Intro to Lex - Bot Setup With Lambda",
-                "description": "A brief introduction to using AWS Lex to create a bot that executes a Lambda function. https://www.awstutorialseries.com.",
+                "publishedAt": "2023-07-02T04:41:01Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The absurd circle division pattern (updated) | Moser&#39;s circle problem",
+                "description": "An apparent pattern that breaks, and the reason behind it. Summer of math exposition: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Jg_SsZGYmr0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/YtkIWDE36qU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Jg_SsZGYmr0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YtkIWDE36qU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Jg_SsZGYmr0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YtkIWDE36qU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2017-05-03T16:32:37Z"
+                "publishTime": "2023-07-02T04:41:01Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Juapxt6n_MQWEWy4ctlhf__tPx4",
+            "etag": "nBaw0DVzk4Dr03G85BYM4VsZvd4",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "CMoxwdQzIJ4"
+                "videoId": "NOCsdhzo6Jg"
             },
             "snippet": {
-                "publishedAt": "2017-02-28T13:21:45Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "New PC Build Video Timelapse",
-                "description": "https://awstutorialseries.com/ Asus Tuf Mark 1 - http://amzn.to/2ljBecW Intel i7 7700k - http://amzn.to/2l7Jm56 Corsair Dominator ...",
+                "publishedAt": "2023-06-28T19:17:11Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "How They Fool Ya (live) | Math parody of Hallelujah",
+                "description": "Happy Tau Day! Here's something a bit out of the ordinary for you. Thanks to Matt Parker, @standupmaths, for the invite.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CMoxwdQzIJ4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/NOCsdhzo6Jg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CMoxwdQzIJ4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NOCsdhzo6Jg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CMoxwdQzIJ4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NOCsdhzo6Jg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2017-02-28T13:21:45Z"
+                "publishTime": "2023-06-28T19:17:11Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "d2yBsV01RfOVrpgtmQSrX2NhpeI",
+            "etag": "lkUfvsQZXF7mqXs5-Is-OkCj6N4",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "5BlKOvrtptg"
+                "videoId": "IaSGqQa5O-M"
             },
             "snippet": {
-                "publishedAt": "2017-02-25T15:06:23Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "IoT (Internet Of Things) Getting Started - Part 2 (Dash Button + Lambda + Elasticsearch)",
-                "description": "https://awstutorialseries.com/ Setting up an AWS Dash button to a Lambda function which takes the data and pipes it into ...",
+                "publishedAt": "2023-06-27T15:08:14Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Convolutions | Why X+Y in probability is a beautiful mess",
+                "description": "Adding random variables, with connections to the central limit theorem. Help fund future projects: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5BlKOvrtptg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/IaSGqQa5O-M/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5BlKOvrtptg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IaSGqQa5O-M/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5BlKOvrtptg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IaSGqQa5O-M/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2017-02-25T15:06:23Z"
+                "publishTime": "2023-06-27T15:08:14Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "2MuFKA-zYmaFxP-0LKSuquetUQA",
+            "etag": "me-Jn9CCby8f4pUZzyg1JOLAmzU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "7C0pmrN9t7E"
+                "videoId": "cy8r7WSuT1I"
             },
             "snippet": {
-                "publishedAt": "2017-02-25T00:34:52Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "Elasticsearch Service Setup",
-                "description": "https://awstutorialseries.com/ https://github.com/andrewpuch/elasticsearch_examples.",
+                "publishedAt": "2023-04-02T15:30:13Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Why π is in the normal distribution (beyond integral tricks)",
+                "description": "Where's the circle? And how does it relate to where e^(-x^2) comes from? Help fund future projects: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/7C0pmrN9t7E/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cy8r7WSuT1I/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/7C0pmrN9t7E/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cy8r7WSuT1I/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/7C0pmrN9t7E/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cy8r7WSuT1I/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2017-02-25T00:34:52Z"
+                "publishTime": "2023-04-02T15:30:13Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "nNYdUaeJnRuZ-hRzFh_IArJr6zI",
+            "etag": "hieKahWBLMXS_3iZT6yaL6cPlQs",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "93npbhqmsME"
+                "videoId": "zeJD6dqJ5lo"
             },
             "snippet": {
-                "publishedAt": "2016-12-09T21:18:52Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "Rekognition Tutorial",
-                "description": "https://awstutorialseries.com/",
+                "publishedAt": "2023-03-14T18:36:36Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "But what is the Central Limit Theorem?",
+                "description": "A visual introduction to probability's most important theorem Help fund future projects: https://www.patreon.com/3blue1brown ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/93npbhqmsME/default.jpg",
+                        "url": "https://i.ytimg.com/vi/zeJD6dqJ5lo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/93npbhqmsME/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zeJD6dqJ5lo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/93npbhqmsME/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zeJD6dqJ5lo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-12-09T21:18:52Z"
+                "publishTime": "2023-03-14T18:36:36Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "mK3eTRHo5aRllxRxFSVuVsczEmE",
+            "etag": "GrSF6QDAUI6DSATdJezBh-jB_24",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "LvCmp3lRu_4"
+                "videoId": "KuXjwB4LzSA"
             },
             "snippet": {
-                "publishedAt": "2016-12-08T23:46:18Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "KMS (Key Management Service) Tutorial",
-                "description": "https://awstutorialseries.com/ YouTube won't let me paste the commands in here because it has slashes in them so you'll have to ...",
+                "publishedAt": "2022-11-18T16:00:39Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "But what is a convolution?",
+                "description": "Discrete convolutions, from probability to image processing and FFTs. Video on the continuous case: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/LvCmp3lRu_4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/KuXjwB4LzSA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/LvCmp3lRu_4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KuXjwB4LzSA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/LvCmp3lRu_4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KuXjwB4LzSA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-12-08T23:46:18Z"
+                "publishTime": "2022-11-18T16:00:39Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "10dqrlCT5jQ3K7_Fdnm0J9gecnw",
+            "etag": "y0_6U8vVSHR1Olbr4--7-W7JYHE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "kQBGbmrdYO4"
+                "videoId": "851U557j6HE"
             },
             "snippet": {
-                "publishedAt": "2016-12-08T02:20:27Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "ECS (EC2 Container Service) Tutorial",
-                "description": "https://awstutorialseries.com/ Github https://github.com/andrewpuch/ecs_tutorial Docker toolbox ...",
+                "publishedAt": "2022-11-04T15:54:19Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Researchers thought this was a bug (Borwein integrals)",
+                "description": "A curious pattern of integrals that all equal pi...until they don't. Next video on convolutions: https://youtu.be/KuXjwB4LzSA Help ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/kQBGbmrdYO4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/851U557j6HE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/kQBGbmrdYO4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/851U557j6HE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/kQBGbmrdYO4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/851U557j6HE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-12-08T02:20:27Z"
+                "publishTime": "2022-11-04T15:54:19Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "qvfbNhz6B0ZX0yP-Cgtbv7f12Yw",
+            "etag": "yq07zLmoN5UQwxoqA72hx4E8ekA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Qs3hbUrqzQM"
+                "videoId": "cDofhN-RJqg"
             },
             "snippet": {
-                "publishedAt": "2016-09-10T17:27:15Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "Datadog Review &amp; Walkthrough",
-                "description": "https://awstutorialseries.com/ Datadog is a fantastic monitoring service! If you have any other services you would like me to review ...",
+                "publishedAt": "2022-10-01T19:23:52Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "We ran a contest for math explainers, here are the results (SoME2)",
+                "description": "Winners and honorable mentions for the SoME2 contest Playlist of all entries: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Qs3hbUrqzQM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cDofhN-RJqg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Qs3hbUrqzQM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cDofhN-RJqg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Qs3hbUrqzQM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cDofhN-RJqg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-09-10T17:27:15Z"
+                "publishTime": "2022-10-01T19:23:52Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "-XIBr7wdbMxm3wQRy6g2IsDKVmU",
+            "etag": "csSI-Qa9Ue8nlaoJrd9vDljYIVU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "sq_l2J4oyLU"
+                "videoId": "VYQVlVoWoPY"
             },
             "snippet": {
-                "publishedAt": "2016-09-04T16:04:41Z",
-                "channelId": "UClLLJjpSWRRa1BosQrNVDjA",
-                "title": "IoT (Internet Of Things) Getting Started - Part 1",
-                "description": "https://awstutorialseries.com/ Future tutorials on IoT will include setting up IoT with a physical hardware device! Stay tuned!",
+                "publishedAt": "2022-07-03T15:03:56Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "How to lie using visual proofs",
+                "description": "Three false proofs, and what lessons they teach. New notebooks: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/sq_l2J4oyLU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/VYQVlVoWoPY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/sq_l2J4oyLU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VYQVlVoWoPY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/sq_l2J4oyLU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/VYQVlVoWoPY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AWS Tutorial Series",
+                "channelTitle": "3Blue1Brown",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-09-04T16:04:41Z"
+                "publishTime": "2022-07-03T15:03:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SsL2V4-08_52ABuRKGWT0r4E1mk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hZuYICAEN9Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-09T05:18:39Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Summer of Math Exposition 2 Invitation",
+                "description": "Announcing the second iteration of the Summer of Math Exposition Mailing-list: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hZuYICAEN9Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hZuYICAEN9Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hZuYICAEN9Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-09T05:18:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "udjRa1IAOQf7zSKu_4ij40M9d6Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bOXCLR3Wric"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-23T15:55:10Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Olympiad level counting",
+                "description": "A lesson on generating functions, and clever uses of complex numbers for counting Help fund future projects: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bOXCLR3Wric/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bOXCLR3Wric/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bOXCLR3Wric/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-23T15:55:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-OfQtx9s_22TVBhI9Dx2O8EA9TA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fRed0Xmc2Wg"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-13T18:33:24Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Oh, wait, actually the best Wordle opener is not “crane”…",
+                "description": "Following up on the Worlde-solver (https://youtu.be/v68zYyaEmEA), discussing a minor bug and more details about how the best ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fRed0Xmc2Wg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fRed0Xmc2Wg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fRed0Xmc2Wg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-13T18:33:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1CwujD_o4MhwQRwEKD7-D1yNEA4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v68zYyaEmEA"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-06T13:28:52Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Solving Wordle using information theory",
+                "description": "An excuse to teach a lesson on information theory and entropy. Special thanks to these supporters: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v68zYyaEmEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v68zYyaEmEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v68zYyaEmEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-06T13:28:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_-Fg6TwGuXVU_1X4xsn17hZAoCY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ltLUadnCyi0"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-20T15:02:30Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Alice, Bob, and the average area of a cube&#39;s shadow",
+                "description": "A tale of two problem solvers. Numberphile video on Bertrand's paradox: https://youtu.be/mZBwsm6B280 Help fund future ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ltLUadnCyi0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ltLUadnCyi0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ltLUadnCyi0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-20T15:02:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yC3eQo7a5TTyZnMDnog_Mkac1_o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F3Qixy-r_rQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-23T20:25:56Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "2021 Summer of Math Exposition results",
+                "description": "Take a look at the full playlist (really): ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F3Qixy-r_rQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F3Qixy-r_rQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F3Qixy-r_rQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-23T20:25:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VliOY1OhufmIN8Vbn8tlrEd-Xbg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LqbZpur38nw"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-16T12:39:12Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Beyond the Mandelbrot set, an intro to holomorphic dynamics",
+                "description": "An intro to holomorphic dynamics, the study of iterated complex functions. Video on Newton's fractal: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LqbZpur38nw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LqbZpur38nw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LqbZpur38nw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-16T12:39:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_XiA8Trl8oCSxTY6SSKWm0ANGZA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-RdOwhmqP5s"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-12T18:57:07Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "From Newton’s method to Newton’s fractal (which Newton knew nothing about)",
+                "description": "Who knew root-finding could be so complicated? Next part: https://youtu.be/LqbZpur38nw Special thanks to the following ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-RdOwhmqP5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-RdOwhmqP5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-RdOwhmqP5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-12T18:57:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5URfVuNrUcYocGakB2M9RyRIFmA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ojjzXyQCzso"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-16T18:39:08Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The Summer of Math Exposition",
+                "description": "Announcement for the 2021 Summer of Math Exposition Podcast/New channel: https://www.youtube.com/GrantSanderson Details: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ojjzXyQCzso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ojjzXyQCzso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ojjzXyQCzso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-16T18:39:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VGcOgAs5l0TNq2gmYAaxq5XYuZs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e50Bj7jn9IQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-07T21:39:22Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "A quick trick for computing eigenvalues | Chapter 15, Essence of linear algebra",
+                "description": "How to write the eigenvalues of a 2x2 matrix just by looking at it. Need a refresher on eigenvalues? https://youtu.be/PFDu9oVAE-g ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e50Bj7jn9IQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e50Bj7jn9IQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e50Bj7jn9IQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-07T21:39:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EfJ4mkxAigyit28Gv5v9rJ_0mco",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O85OWBJ2ayo"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-01T15:50:30Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "How (and why) to raise e to the power of a matrix | DE6",
+                "description": "General exponentials, love, Schrödinger, and more. Help fund future projects: https://www.patreon.com/3blue1brown An equally ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O85OWBJ2ayo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O85OWBJ2ayo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O85OWBJ2ayo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-01T15:50:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "acJTNjrFia-sgrZIEmO1IdWQTsU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lG4VkPoG3ko"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-22T17:42:00Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The medical test paradox, and redesigning Bayes&#39; rule",
+                "description": "About Likelihood Ratios, also sometimes called Bayes Factors*. Help fund future projects: https://www.patreon.com/3blue1brown ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lG4VkPoG3ko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lG4VkPoG3ko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lG4VkPoG3ko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-22T17:42:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Acuk2rvhyJygW4FcxY9SYSEvUWc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b3NxrZOu_CE"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-04T15:36:24Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Hamming codes part 2, the elegance of it all",
+                "description": "Part 1: https://youtu.be/X8jsijhllIA Watch Ben Eater's video: https://youtu.be/h0jloehRKas Help fund future projects: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b3NxrZOu_CE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b3NxrZOu_CE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b3NxrZOu_CE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-04T15:36:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zt78Vk-gY-HVuPGyQsz0peZQFx8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X8jsijhllIA"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-04T15:32:50Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "How to send a self-correcting message (Hamming codes)",
+                "description": "A discovery-oriented introduction to error correction codes. Part 2: https://youtu.be/b3NxrZOu_CE Ben Eater:'s take: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X8jsijhllIA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X8jsijhllIA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X8jsijhllIA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-04T15:32:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Zm5e1e_5pePCKHrtM0qg3hsWebg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mH0oCDa74tE"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-19T14:01:39Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Group theory, abstraction, and the 196,883-dimensional monster",
+                "description": "An introduction to group theory (Minor error corrections below) Help fund future projects: https://www.patreon.com/3blue1brown ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mH0oCDa74tE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mH0oCDa74tE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mH0oCDa74tE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-19T14:01:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q101dNWwiXpoDobayizIaEHxig4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wTJI_WuZSwE"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-05T18:50:36Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The impossible chessboard puzzle",
+                "description": "An information puzzle with an interesting twist Solution on Stand-up Maths: https://youtu.be/as7Gkm7Y7h4 Help fund future ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wTJI_WuZSwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wTJI_WuZSwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wTJI_WuZSwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-05T18:50:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6VCMtIGz8kQ3ZdUI_Zm3hxk_ieI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QvuQH4_05LI"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-22T20:14:56Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Tips to be a better problem solver [Last live lecture] | Ep. 10 Lockdown live math",
+                "description": "Tips on problem-solving, with examples from geometry, trig, and probability. Past episodes with integrated quizzes: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QvuQH4_05LI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QvuQH4_05LI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QvuQH4_05LI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-22T20:14:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Nv1FuFWpaij2RuyT87UAq0xscS8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pq9LcwC7CoY"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-15T21:23:19Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Intuition for i to the power i | Ep. 9 Lockdown live math",
+                "description": "i^i, visualized and explained. Full playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pq9LcwC7CoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pq9LcwC7CoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pq9LcwC7CoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-15T21:23:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hfzhMI4LNjJDuityEc1042NGKzA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D__UaR5MQao"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-14T15:00:01Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The DP-3T algorithm for contact tracing (via Nicky Case)",
+                "description": "Though many contact tracing apps involve location tracking, they don't have to. This is a video adaptation of a post by Nicky Case: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D__UaR5MQao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D__UaR5MQao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D__UaR5MQao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-14T15:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QZkBdtagMUgV3Gfz5ryOHTdpnNk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "elQVZLLiod4"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-12T19:59:48Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The power tower puzzle | Ep. 8 Lockdown live math",
+                "description": "A fun puzzle stemming from repeated exponentiation. Full playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/elQVZLLiod4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/elQVZLLiod4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/elQVZLLiod4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-12T19:59:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pXpVbvfbL_Wv_FnAoup-dls4Zps",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4PDoT7jtxmw"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-08T20:22:12Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "What makes the natural log &quot;natural&quot;? | Ep. 7 Lockdown live math",
+                "description": "All about ln(x). Full playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev Home page: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4PDoT7jtxmw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4PDoT7jtxmw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4PDoT7jtxmw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-08T20:22:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YoEsY3A-Du9kfa6zNleeo-0wuM8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cEvgcoyZvB4"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-05T20:36:51Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Logarithm Fundamentals | Ep. 6 Lockdown live math",
+                "description": "Back to the basics with logarithms. Full playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cEvgcoyZvB4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cEvgcoyZvB4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cEvgcoyZvB4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-05T20:36:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "il48I2dMmJUi49XtDIPLB3opi6M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IAEASE5GjdI"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T20:11:37Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Imaginary interest rates | Ep. 5 Lockdown live math",
+                "description": "Compound interest, e, and how it relates to circles. Full playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IAEASE5GjdI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IAEASE5GjdI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IAEASE5GjdI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-01T20:11:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "torhLMO93QeYnWL7e209zRO2m7Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZxYOEwM6Wbk"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-28T19:58:20Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "What is Euler&#39;s formula actually saying? | Ep. 4 Lockdown live math",
+                "description": "What does it mean to compute e^{pi i}? Full playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZxYOEwM6Wbk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZxYOEwM6Wbk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZxYOEwM6Wbk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-28T19:58:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DmByKNs08F4dfsdvs95_UVOqGJk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5PcpBw5Hbwo"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-24T20:31:26Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Complex number fundamentals | Ep. 3 Lockdown live math",
+                "description": "Intro to the geometry complex numbers. Full playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5PcpBw5Hbwo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5PcpBw5Hbwo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5PcpBw5Hbwo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-24T20:31:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z4M1A9LNJM9bxWXRK8zYy1R7Mlg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yBw67Fb31Cs"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-21T20:51:44Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Trigonometry fundamentals | Ep. 2 Lockdown live math",
+                "description": "Intro to trig with a lurking mystery about cos(x)^2 Full playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yBw67Fb31Cs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yBw67Fb31Cs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yBw67Fb31Cs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-21T20:51:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y84LTdyHqcdR_U2Lb3d0BPQngFY",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-17T21:07:35Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Lockdown math",
+                "description": "New lessons Tuesdays and Friday, noon pacific time.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ppWPuXsnf1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ppWPuXsnf1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ppWPuXsnf1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-17T21:07:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H8tC_KoKnDJKwfNnv4x0LTG_FlU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MHXO86wKeDY"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-17T20:04:24Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The simpler quadratic formula | Ep. 1 Lockdown live math",
+                "description": "Another view on the quadratic formula. Full playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MHXO86wKeDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MHXO86wKeDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MHXO86wKeDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-17T20:04:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gHg5J5NaqnaVFr0fCY4kUVPDYug",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ppWPuXsnf1Q"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-16T21:25:09Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Lockdown math announcement",
+                "description": "Full playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev Help fund future projects: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ppWPuXsnf1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ppWPuXsnf1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ppWPuXsnf1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-16T21:25:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OwHfCk3mJJT8KkhNDzCTuSAXgMI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZA4JkHKZM50"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-12T15:41:30Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2",
+                "description": "An introduction to probability density functions Help fund future projects: https://www.patreon.com/3blue1brown An equally ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZA4JkHKZM50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZA4JkHKZM50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZA4JkHKZM50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-12T15:41:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z0urUGWcnIa-VIafr24GC5oSA60",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gxAaO2rsdIs"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-27T19:47:30Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Simulating an epidemic",
+                "description": "Experiments with toy SIR models Help fund future projects: https://www.patreon.com/3blue1brown An equally valuable form of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gxAaO2rsdIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gxAaO2rsdIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gxAaO2rsdIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-27T19:47:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mtCtW1_7S9QFyMKsVsgTo1Q4hzQ",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLZHQObOWTQDMhxE4XbNHLlJ56E2TGBZ0_"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-16T18:47:14Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Guest appearances on other channels",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s_L-fp8gDzY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s_L-fp8gDzY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s_L-fp8gDzY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-16T18:47:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "29vP23Q3WiAWOLCYCJqDsdXT6-Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8idr1WZ1A7Q"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-15T18:28:16Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Binomial distributions | Probabilities of probabilities, part 1",
+                "description": "Part 2: https://youtu.be/ZA4JkHKZM50 Help fund future projects: https://www.patreon.com/3blue1brown An equally valuable form ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8idr1WZ1A7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8idr1WZ1A7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8idr1WZ1A7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-15T18:28:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W0uraB5bZLxVmzqZhnRcHYeb-2A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kas0tIxDvrg"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-08T16:58:19Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Exponential growth and epidemics",
+                "description": "A primer on exponential and logistic growth Help fund future projects: https://www.patreon.com/3blue1brown An equally valuable ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kas0tIxDvrg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kas0tIxDvrg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kas0tIxDvrg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-08T16:58:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9YYJKyg7eWWCnXm5iidp_GyPRAQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U_85TaXbeIo"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-22T14:45:25Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The quick proof of Bayes&#39; theorem",
+                "description": "Including some added words on independence. Main video: https://youtu.be/HZGCoVF3YvM Help fund future projects: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U_85TaXbeIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U_85TaXbeIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U_85TaXbeIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-22T14:45:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gDYs60KUQkSwDhiIuMVN3iHf1gE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HZGCoVF3YvM"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-22T14:31:56Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Bayes theorem, the geometry of changing beliefs",
+                "description": "Perhaps the most important formula in probability. Help fund future projects: https://www.patreon.com/3blue1brown An equally ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HZGCoVF3YvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HZGCoVF3YvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HZGCoVF3YvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-22T14:31:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tbpI-Q80M1bmz1bDANP2mik3v-s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Agbh95KyWxY"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-23T01:00:14Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Q&amp;A with Grant, windy walk edition",
+                "description": "Thank you for 2^21 subscribers. Store: http://3b1b.co/store ↓↓Links to things discussed below ↓↓ The Bit Player ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Agbh95KyWxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Agbh95KyWxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Agbh95KyWxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-23T01:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xEVyzOf4Qd76XqjMi6rF3A4Hw1Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EK32jo7i5LQ"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-08T17:02:51Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "Why do prime numbers make these spirals? | Dirichlet’s theorem, pi approximations, and more",
+                "description": "A curious pattern, approximations for pi, and prime distributions. Help fund future projects: https://www.patreon.com/3blue1brown ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EK32jo7i5LQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EK32jo7i5LQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EK32jo7i5LQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-08T17:02:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "scCFRkyMewkuJVKHJLIssRK-5tE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M64HUIJFTZM"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-04T17:03:51Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "The unexpectedly hard windmill question (2011 IMO, Q2)",
+                "description": "The famous (infamous?) \"windmill\" problem on the 2011 IMO Help fund future projects: https://www.patreon.com/3blue1brown An ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M64HUIJFTZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M64HUIJFTZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M64HUIJFTZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-08-04T17:03:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "udkNrWFTEFoSKJ_uEBklmYJ2CjE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v0YEaeIClKY"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-07T14:08:18Z",
+                "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+                "title": "e^(iπ) in 3.14 minutes, using dynamics | DE5",
+                "description": "Euler's formula about e to the i pi, explained with velocities to positions. Help fund future projects: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v0YEaeIClKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v0YEaeIClKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v0YEaeIClKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "3Blue1Brown",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-07T14:08:18Z"
             }
         }
     ]
