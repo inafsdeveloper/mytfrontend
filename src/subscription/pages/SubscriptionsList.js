@@ -34,6 +34,7 @@ const SubscriptionsList = props => {
             <Search
                 inputValue={searchText}
                 handleInputChange={inputChangeHandler}
+                placeholderText="Search your subscriptions..."
                 handleSearch={searchHandler}
             />
 

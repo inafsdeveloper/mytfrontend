@@ -6,7 +6,7 @@ const Search = props => {
         <div class="row  justify-content-left align-items-center" style={{paddingTop: '20px', paddingBottom: '20px '}}>
             <div class="col">
                 <div class="search">
-                    <input type="text" class="form-control" placeholder="Search your subscriptions..." 
+                    <input type="text" class="form-control" placeholder={props.placeholderText} 
                         value={props.inputValue}
                         onChange={props.handleInputChange}
                     />

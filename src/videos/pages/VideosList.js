@@ -24,6 +24,7 @@ const VideosList = props => {
             <Search
                 inputValue={searchText}
                 handleInputChange={inputChangeHandler}
+                placeholderText="Search your videos..."
                 handleSearch={searchHandler}
             />
             <div class="row row-cols-auto justify-content-center">
