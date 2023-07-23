@@ -3,7 +3,7 @@ import React, {useState} from "react";
 import Subscription from "../components/Subscription";
 import Search from "../../shared/components/UIElements/Search";
 
-const subscriptionDATA = require('../../shared/data/subs-data.json');
+const DummySubscriptionDATA = require('../../shared/data/subs-data.json');
 const SubscriptionsList = props => {
 
     // return (
@@ -17,7 +17,7 @@ const SubscriptionsList = props => {
     // );
 
     const [searchText, setSearchText] = useState();
-    const [subsData, setSubsData] = useState(subscriptionDATA.items);
+    const [subsData, setSubsData] = useState(DummySubscriptionDATA.items);
     
     const inputChangeHandler = event => {
         setSearchText(event.target.value);
@@ -25,7 +25,7 @@ const SubscriptionsList = props => {
 
     const searchHandler = event => {
         event.preventDefault();        
-        const filteredData = subscriptionDATA.items.filter(item => item.snippet.title.includes(searchText));        
+        const filteredData = DummySubscriptionDATA.items.filter(item => item.snippet.title.includes(searchText));        
         setSubsData(filteredData);
     };
 

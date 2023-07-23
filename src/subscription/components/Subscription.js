@@ -9,7 +9,7 @@ const Subscription = props => {
     const contentDeatils = props.item.contentDetails;
     // console.log(snippet.title);
     return (
-        <div className="col" style={{ paddingBottom: '20px' }}>
+        <div className="col" style={{ padding: '10px' }}>
             <Link to="/s1/videos">
                 <div className="card">
                     <img
