@@ -7,19 +7,28 @@ const subscriptionDATA = require('../../shared/data/subs-data.json');
 const SubscriptionsList = props => {
 
     return (
-        <div className="container">
-            <div class="row">
-                <ul className="list-group">
-                    {subscriptionDATA.items.map(item => (
+        <div className="card-group">
+            {subscriptionDATA.items.map(item => (
                         <Subscription
                             item={item}
                         />
                     ))}
-                </ul>
-
-            </div>
         </div>
     );
+    // return (
+    //     <div className="container">
+    //         <div class="row">
+    //             <ul className="list-group">
+    //                 {subscriptionDATA.items.map(item => (
+    //                     <Subscription
+    //                         item={item}
+    //                     />
+    //                 ))}
+    //             </ul>
+
+    //         </div>
+    //     </div>
+    // );
 };
 
 export default SubscriptionsList;
